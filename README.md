@@ -6,6 +6,8 @@ https://www.researchgate.net/publication/337638438_A_Survey_of_Event_Extraction_
 
 ![alt text](https://github.com/majiga/Text2Event/blob/master/images/survey_paper_overview.png)
 
+![alt text](https://github.com/majiga/Text2Event/blob/master/images/survey_paper_RNNs.png)
+
 ## Files
 
 ### 1. source/extract_event_example.ipynb is a simple example file to extract events using pattern matching (trigger words)
