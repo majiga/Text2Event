@@ -6,7 +6,7 @@ Event detection from domain-specific text data
 2. extract event details
 
 ### File graph_construction_from_text.ipynb does inormation extraction and graph construction
-1. Extract entities
+1. Extract entities using a domain dictionary VOCABULARY_TYPED.json (https://github.com/majiga/OzROCK labelled dataset can be used for supervised named entity recognition)
 2. Extract relations
 3. Build a graph and visualise
 
