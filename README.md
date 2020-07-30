@@ -1,8 +1,11 @@
 # Text2Event repository
 Event detection from domain-specific text data
 
-A survey paper for overview: Wei, Xiang & Wang, Bang. (2019). A Survey of Event Extraction from Text. IEEE Access. 
+### A survey paper for overview: Wei, Xiang & Wang, Bang. (2019). A Survey of Event Extraction from Text. IEEE Access. 
 https://www.researchgate.net/publication/337638438_A_Survey_of_Event_Extraction_from_Text
+
+![alt text](https://github.com/majiga/Text2Event/blob/master/images/survey_paper_overview.png)
+
 
 ### File source/extract_event_example.ipynb is a simple example file to extract events using trigger words
 1. Detect events using trigger words
