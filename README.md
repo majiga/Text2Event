@@ -1,7 +1,6 @@
 # Text2Event repository
 Event detection from domain-specific text data
 
-
 ### File extract_event_example.ipynb is a simple example file to extract events using trigger words
 1. detect events using trigger words
 2. extract event details
@@ -20,3 +19,5 @@ https://sites.google.com/view/majiga/case-studies
 2. Visualisations to explore or discover information
 3. Analysis, ...
 4. Check other required outcomes stated by the unit in https://handbooks.uwa.edu.au/unitdetails?code=CITS5553
+
+![alt text](http://https://github.com/majiga/Text2Event/images/EventDetails.png)
