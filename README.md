@@ -1,12 +1,12 @@
 # Text2Graph
-Graph construction from domain-specific text data
+Event detection from domain-specific text data
 
 
-### extract_event_example.ipynb is a simple example file to extract event using trigger words
+### File extract_event_example.ipynb is a simple example file to extract events using trigger words
 1. detect events using trigger words
 2. extract event details
 
-### graph_construction_from_text.ipynb does inormation extraction and graph construction
+### File graph_construction_from_text.ipynb does inormation extraction and graph construction
 1. Extract entities
 2. Extract relations
 3. Build a graph and visualise
@@ -15,7 +15,7 @@ Graph construction from domain-specific text data
 Some graph visualisations that were created from mineral exploration reports.
 https://sites.google.com/view/majiga/case-studies
 
-### Outcomes:
+### Outcomes
 1. List of events with their details
 2. Visualisations to explore or discover information
 3. Analysis, ...
