@@ -8,11 +8,11 @@ https://www.researchgate.net/publication/337638438_A_Survey_of_Event_Extraction_
 
 ## Files
 
-### 1. File source/extract_event_example.ipynb is a simple example file to extract events using trigger words
+### 1. source/extract_event_example.ipynb is a simple example file to extract events using pattern matching (trigger words)
 - Detect events using trigger words
 - Extract event details
 
-### 2. File source/graph_construction_from_text.ipynb does inormation extraction and graph construction
+### 2. source/graph_construction_from_text.ipynb does inormation extraction and graph construction
 - Extract entities using a domain dictionary VOCABULARY_TYPED.json (https://github.com/majiga/OzROCK labelled dataset can be used for supervised named entity recognition)
 - Extract relations
 - Build a graph and visualise
