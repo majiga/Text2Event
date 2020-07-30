@@ -1,6 +1,8 @@
 # Text2Event repository
 Event detection from domain-specific text data
 
+A survey paper for overview: https://www.researchgate.net/publication/337638438_A_Survey_of_Event_Extraction_from_Text
+
 ### File source/extract_event_example.ipynb is a simple example file to extract events using trigger words
 1. Detect events using trigger words
 2. Extract event details
