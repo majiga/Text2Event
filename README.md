@@ -10,6 +10,8 @@ Event detection from domain-specific text data
 2. Extract relations
 3. Build a graph and visualise
 
+![alt_text](https://github.com/majiga/Text2Event/blob/master/images/info_extraction.png)
+
 ### Visualisation
 Some graph visualisations that were created from mineral exploration reports.
 https://sites.google.com/view/majiga/case-studies
