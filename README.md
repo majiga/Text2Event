@@ -1,4 +1,4 @@
-# Text2Graph
+# Text2Event repository
 Event detection from domain-specific text data
 
 
