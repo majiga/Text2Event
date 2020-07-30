@@ -20,4 +20,4 @@ https://sites.google.com/view/majiga/case-studies
 3. Analysis, ...
 4. Check other required outcomes stated by the unit in https://handbooks.uwa.edu.au/unitdetails?code=CITS5553
 
-![alt text](http://https://github.com/majiga/Text2Event/images/EventDetails.png)
+![alt text](https://github.com/majiga/Text2Event/blob/master/images/EventDetails.png)
