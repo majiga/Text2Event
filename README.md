@@ -2,8 +2,8 @@
 Event detection from domain-specific text data
 
 ### File source/extract_event_example.ipynb is a simple example file to extract events using trigger words
-1. detect events using trigger words
-2. extract event details
+1. Detect events using trigger words
+2. Extract event details
 
 ### File source/graph_construction_from_text.ipynb does inormation extraction and graph construction
 1. Extract entities using a domain dictionary VOCABULARY_TYPED.json (https://github.com/majiga/OzROCK labelled dataset can be used for supervised named entity recognition)
@@ -13,8 +13,7 @@ Event detection from domain-specific text data
 ![alt_text](https://github.com/majiga/Text2Event/blob/master/images/info_extraction.png)
 
 ### Visualisation
-Some graph visualisations that were created from mineral exploration reports.
-https://sites.google.com/view/majiga/case-studies
+Some graph visualisation that were created from mineral exploration reports: https://sites.google.com/view/majiga/case-studies
 
 ### Outcomes
 1. List of events with their details
