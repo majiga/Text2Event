@@ -7,6 +7,8 @@ https://www.researchgate.net/publication/337638438_A_Survey_of_Event_Extraction_
 
 ![alt text](https://github.com/majiga/Text2Event/blob/master/images/survey_paper_RNNs.png)
 
+## WAMEX Dataset
+https://www.dmp.wa.gov.au/WAMEX-Minerals-Exploration-1476.aspx
 
 ## Files
 
@@ -29,8 +31,8 @@ https://www.researchgate.net/publication/337638438_A_Survey_of_Event_Extraction_
 Some graph visualisation that were created from mineral exploration reports: https://sites.google.com/view/majiga/case-studies
 
 Graph from text demo: https://nlp-tlp.org/text2kg/
-
-Paper for the demo: https://arxiv.org/pdf/1909.01807.pdf
+- Source code for the demo: https://github.com/majiga/text2kg-uwa
+- Paper for the demo: https://arxiv.org/pdf/1909.01807.pdf
 
 ### Outcomes
 1. List of events with their details
