@@ -28,6 +28,10 @@ https://www.researchgate.net/publication/337638438_A_Survey_of_Event_Extraction_
 ### Visualisation examples
 Some graph visualisation that were created from mineral exploration reports: https://sites.google.com/view/majiga/case-studies
 
+Graph from text demo: https://nlp-tlp.org/text2kg/
+
+Paper for the demo: https://arxiv.org/pdf/1909.01807.pdf
+
 ### Outcomes
 1. List of events with their details
 2. Visualisations to explore or discover events
