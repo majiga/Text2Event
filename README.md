@@ -25,6 +25,8 @@ https://www.dmp.wa.gov.au/WAMEX-Minerals-Exploration-1476.aspx
 
 ### 3. source/visualisation_WA.ipynb visualises the data/events.csv file on the WA map
 - Read data/events.csv file
+![alt_text](https://github.com/majiga/Text2Event/blob/master/images/event_list.png)
+
 - Visualise the events on the WA map
 
 ![alt_text](https://github.com/majiga/Text2Event/blob/master/images/vis_map.png)
