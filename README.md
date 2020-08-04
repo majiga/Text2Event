@@ -27,8 +27,7 @@ https://www.dmp.wa.gov.au/WAMEX-Minerals-Exploration-1476.aspx
 - Read data/events.csv file
 ![alt_text](https://github.com/majiga/Text2Event/blob/master/images/event_list.png)
 
-- Visualise the events on the WA map
-
+- Visualise the events on the WA map (data/map_WA.csv file can be useful for getting latitude and longitude data)
 ![alt_text](https://github.com/majiga/Text2Event/blob/master/images/vis_map.png)
 
 
