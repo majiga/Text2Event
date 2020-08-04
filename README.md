@@ -34,6 +34,9 @@ Graph from text demo: https://nlp-tlp.org/text2kg/
 - Source code for the demo: https://github.com/majiga/text2kg-uwa
 - Paper for the demo: https://arxiv.org/pdf/1909.01807.pdf
 
+### NLP tools:
+spacy.io
+
 ### Outcomes
 1. List of events with their details
 2. Visualisations to explore or discover events
