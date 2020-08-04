@@ -1,0 +1,9 @@
+event_id,locality,long,lat,dc,postcode,event_type,event_outcome,event_details,source_file
+filename1_0001,GASCOYNE JUNCTION,115.011494,-25.111289,CARNARVON POST SHOP,6705,,,mineral: silver; copper,filename1.json
+filename1_0002,DAMPIER,116.709548,-20.676313,KARRATHA,6713,,,ore_deposit: iron ore,filename1.json
+filename1_0003,KARRATHA,116.349933,-21.145063,KARRATHA,6714,unsuccessul,no minerals,mineral: gold; stratigraphy: TBA; ore_deposit: gold deposit; timescale: Archaean,filename1.json
+filename2_0001,HAMERSLEY RANGE,116.311985,-21.605319,PANNAWONICA LPO,6716,near-miss,possible nickel and copper,mineral: nickel; copper; stratigraphy: some stratigraphic name,filename2.json
+filename2_0002,ROEBOURNE,117.740969,-20.971499,ROEBOURNE LPO,6718,unsuccessful,no silver found,mineral: silver; stratigraphy: TBA; ore_deposit: gold deposit; timescale: Archaean,filename2.json
+filename2_0003,PORT HEDLAND,118.441716,-20.710799,PORT HEDLAND,6721,successful,iron ore found,mineral: iron; stratigraphy: TBA; ore_deposit: iron ore deposit; timescale: Archaean,filename2.json
+filename3_0001,DE GREY,118.606673,-20.407853,SOUTH HEDLAND,6722,successful,nickel ore found,ore_deposit: nickel ore; timescale: Archaean,filename3.json
+filename3_0002,GOLDSWORTHY,119.727488,-20.2103,WA Country,6723,successful,copper found,mineral: copper; ore_deposit: copper deposit,filename3.json
