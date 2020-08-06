@@ -17,7 +17,7 @@ https://www.dmp.wa.gov.au/WAMEX-Minerals-Exploration-1476.aspx
 - Extract event details
 
 ### 2. source/graph_construction_from_text.ipynb does inormation extraction and graph construction
-- Extract entities using a domain dictionary VOCABULARY_TYPED.json (https://github.com/majiga/OzROCK labelled dataset can be used for supervised named entity recognition)
+- Extract entities using a domain dictionary source/VOCABULARY_TYPED.json (https://github.com/majiga/OzROCK labelled dataset can be used for supervised named entity recognition; Dictionary folder also contains the 6 lists of entities.)
 - Extract relations
 - Build a graph and visualise
 
