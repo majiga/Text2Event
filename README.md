@@ -3,27 +3,26 @@
 ### A survey paper for overview: Wei, Xiang & Wang, Bang. (2019). A Survey of Event Extraction from Text. IEEE. 
 https://www.researchgate.net/publication/337638438_A_Survey_of_Event_Extraction_from_Text
 
-![alt text](https://github.com/majiga/Text2Event/blob/master/images/survey_paper_overview.png)
-
-![alt text](https://github.com/majiga/Text2Event/blob/master/images/survey_paper_RNNs.png)
-
 ## WAMEX Dataset
 https://www.dmp.wa.gov.au/WAMEX-Minerals-Exploration-1476.aspx
 
 ## Files
 
-### 1. source/extract_event_example.ipynb is a simple example file to extract events using pattern matching (trigger words)
+### 1. Text classification using different machine learning algorithms
+source/20news_classification.ipynb
+
+### 2. source/extract_event_example.ipynb is a simple example file to extract events using pattern matching (trigger words)
 - Detect events using trigger words
 - Extract event details
 
-### 2. source/graph_construction_from_text.ipynb does inormation extraction and graph construction
+### 3. source/graph_construction_from_text.ipynb does inormation extraction and graph construction
 - Extract entities using a domain dictionary source/VOCABULARY_TYPED.json (https://github.com/majiga/OzROCK labelled dataset can be used for supervised named entity recognition; Dictionary folder also contains the 6 lists of entities.)
 - Extract relations
 - Build a graph and visualise
 
 ![alt_text](https://github.com/majiga/Text2Event/blob/master/images/info_extraction.png)
 
-### 3. source/visualisation_WA.ipynb visualises the data/events.csv file on the WA map
+### 4. source/visualisation_WA.ipynb visualises the data/events.csv file on the WA map
 - Read data/events.csv file
 ![alt_text](https://github.com/majiga/Text2Event/blob/master/images/event_list.png)
 
