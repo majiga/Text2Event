@@ -11,6 +11,9 @@ https://www.dmp.wa.gov.au/WAMEX-Minerals-Exploration-1476.aspx
 ### 1. Text classification using different machine learning algorithms
 source/20news_classification.ipynb
 
+![alt_text](https://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet-2.png)
+Source: https://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet-2.png
+
 ### 2. source/extract_event_example.ipynb is a simple example file to extract events using pattern matching (trigger words)
 - Detect events using trigger words
 - Extract event details
